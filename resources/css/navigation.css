@@ -25,22 +25,22 @@ label {
     transition: left 0.33s 0.33s, right 0.33s 0.33s, top 0.33s, bottom 0.33s;
 }
 
-#li0 + label {
+#item-0 + label {
     top: 14px;
     bottom: 164px;
 }
 
-#li1 + label {
+#item-1 + label {
     top: 64px;
     bottom: 114px;
 }
 
-#li2 + label {
+#item-2 + label {
     top: 114px;
     bottom: 64px;
 }
 
-#li3 + label {
+#item-3 + label {
     top: 164px;
     bottom: 14px;
 }
